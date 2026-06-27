@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+P001,Wireless Earbuds,Electronics,49.99
+P002,Smart Watch,Electronics,199.99
+P003,Laptop Stand,Electronics,34.99
+P004,USB-C Hub,Electronics,29.99
+P005,Mechanical Keyboard,Electronics,89.99
+P006,Running Shoes,Footwear,79.99
+P007,Yoga Mat,Sports,25.99
+P008,Resistance Bands,Sports,19.99
+P009,Water Bottle,Sports,14.99
+P010,Dumbbell Set,Sports,59.99
+P011,Face Moisturizer,Beauty,22.99
+P012,Vitamin C Serum,Beauty,35.99
+P013,Sunscreen SPF50,Beauty,18.99
+P014,Hair Dryer,Beauty,44.99
+P015,Novel: The Journey,Books,12.99
+P016,Python Programming,Books,39.99
+P017,Self-Help Guide,Books,14.99
+P018,Coffee Maker,Home,69.99
+P019,Air Purifier,Home,129.99
+P020,Desk Lamp,Home,39.99
